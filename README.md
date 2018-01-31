@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png" alt="Prettier">
   <br />
-  [Prettier]
+  Prettier
 </h1>
 
-<p align="center"><b>This is the snap for [Prettier](https://github.com/prettier/prettier)</b>, <i>"an opinionated code formatter"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for Prettier(https://github.com/prettier/prettier)</b>, <i>"an opinionated code formatter"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -29,7 +29,7 @@ distributions.</p>
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
 the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
-upstream so [Prettier] can authoritatively publish future releases.
+upstream so Prettier can authoritatively publish future releases.
 
   - [x] Fork the [Snapcrafters template](https://github.com/snapcrafters/fork-and-rename-me) repository to your own GitHub account.
     - If you have already forked the Snapcrafter template to your account and want to create another snap, you'll need to use GitHub's [Import repository](https://github.com/new/import) feature because you can only fork a repository once.
